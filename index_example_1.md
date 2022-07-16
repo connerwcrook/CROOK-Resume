@@ -33,15 +33,22 @@ __Brigham Young University-Idaho__
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`March 2022 - Present`
+__Janium__, Rexburg, Idaho
 
-- Warden
-- Minted coins
+- Senior Data Engineer
+- Create API and other Data pipelines through SQL and Python
+- Work in Google Cloud to maintain and update our database
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`May 2021 - March 2022`
+__Beehive Federal Credit Union__, Rexburg, Idaho
 
+- Marketing Specialist
+- Analyse and make decisions off of marketing data
+- Handle everything marketing for Beehive Federal Credit Union
+
+`September 2018 - September 2021`
+__Brigham Young University-Idaho__, Rexburg, Idaho
 
 
 <!-- ### Footer
